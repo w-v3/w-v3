@@ -4,8 +4,8 @@
 <br> **🚀 What I Do:**   
 <br> - **Code Conjurer** 🪄: Crafting microservices and APIs that flow like poetry.
 <br> - **AI Alchemist** 🤖: Building intelligent apps that actually understand you.
-<br> - **Cloud Tamer** ☁️: Deploying scalable solutions in the cloud, ensuring your tech runs smoother than a fresh cup of coffee.
-<br> - **Product Juggler** 🎩: Strategizing, managing roadmaps, and delivering impactful solutions as a tech-savvy product wrangler.
+<br> - **Cloud Tamer** ☁️: Deploying scalable solutions in the cloud, ensuring your tech runs smoother and better.
+<br> - **Product Juggler** 🎩: Strategizing, managing roadmaps, and delivering impactful solutions.
 <br> - **Data Whisperer** 📊: Unearthing patterns, insights, and occasional Easter eggs while taming datasets.
 <br><br> **🤝 I’m Looking to Collaborate On:**
 <br> - Building innovative **AI-driven applications** that solve real-world problems.
